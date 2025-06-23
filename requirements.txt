@@ -7,3 +7,4 @@ pandas
 rtree
 pygeos
 shapely
+scikit-learn
