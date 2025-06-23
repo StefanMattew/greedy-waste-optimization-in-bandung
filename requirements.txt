@@ -4,3 +4,6 @@ networkx
 folium
 streamlit-javascript
 pandas
+rtree
+pygeos
+shapely
